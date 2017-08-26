@@ -1,0 +1,6 @@
+redis.clients.jedis
+redis.clients.jedis.exceptions
+redis.clients.jedis.params
+redis.clients.jedis.params.geo
+redis.clients.jedis.params.sortedset
+redis.clients.util

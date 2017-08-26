@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: jackson-databind
+Implementation-Version: 2.8.9
+Specification-Vendor: FasterXML
+Built-By: tatu
+Implementation-Build-Date: 2017-06-12 00:53:09+0000
+Created-By: Apache Maven
+X-Compile-Source-JDK: 1.7
+Implementation-Vendor: FasterXML
+Implementation-Vendor-Id: com.fasterxml.jackson.core
+Build-Jdk: 1.7.0_79
+Specification-Title: jackson-databind
+Specification-Version: 2.8.9
+X-Compile-Target-JDK: 1.7
+Archiver-Version: Plexus Archiver
+
